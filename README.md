@@ -1,5 +1,9 @@
-Projeto do curso da Quality Plus do curso Automação de testes funcionais com Selenium - Básico
+Automação de testes funcionais com Selenium - Básico
 ========================
+
+Projeto do curso da Quality Plus do curso Automação de testes funcionais com Selenium - Básico
+
+
 
 Para executar o projeto é preciso ter os seguinte pré-requisitos:
 
