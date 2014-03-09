@@ -1,4 +1,4 @@
-Automação de testes funcionais com Selenium - Básico
+Projeto Automatização de testes
 ========================
 
 Projeto do curso da Quality Plus do curso Automação de testes funcionais com Selenium - Básico
